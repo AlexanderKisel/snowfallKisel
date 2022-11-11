@@ -1,0 +1,11 @@
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\bin\Debug\Snowfall.exe.config
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\bin\Debug\Snowfall.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\bin\Debug\Snowfall.pdb
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.Form1.resources
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.Properties.Resources.resources
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.csproj.GenerateResource.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\Snowfall\Snowfall\obj\Debug\Snowfall.pdb
